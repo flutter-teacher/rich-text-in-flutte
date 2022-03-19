@@ -1,13 +1,15 @@
+This video explains the Rich Text widget in Flutter.
+Using Rich Text we can create the text that allows multiple different styles.
+Text inside the Rich Text is described using InlineSpan object.
 
-Following are some points that gives features of Text.rich() in brief.
+Here you will learn:
+1) Basics of RichText, InlineSpan, TextSpan & WidgetSpan
+2) Using multiple text style for text 
+3) Creating clickable text using TextSpan
+4) Adding widget inside the text using WidgetSpan
 
-1) Text.rich() allows us to create text using Inline Span that makes it possible to apply different styles for the text.
-
-2) Using Text.rich() it's possible to create clickable text 
-
-3) Using WidgetSpan inside the  Text.rich(), we can add any Widget inside the text of paragraph
  
-Flutter Text.rich constructor video Link : https://youtu.be/jyj3uZme6b8
+Flutter Rich Text video Link : https://youtu.be/TTOZbiqFGho
 
 Flutter Tutorial Playlist: https://www.youtube.com/playlist?list=PLeKQz1VjpjFq3vbq3Hvl1866nsmAQdzUo
 
